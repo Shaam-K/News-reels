@@ -1,6 +1,5 @@
 # News-reels
-Displays 10 news cards with links to the full article
-
+Displays 10 random current news information in the form of cards. You can set filters on what type of news yu want.
 
 ## How to start-up project:
 
